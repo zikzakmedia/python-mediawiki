@@ -1,0 +1,88 @@
+==Basic Wiki Editing==
+You can ''italicize text'' by putting 2 
+apostrophes on each side. 
+3 apostrophes will embolden '''the text'''. 
+5 apostrophes will embolden and italicize 
+'''''the text'''''.
+(4 apostrophes don't do anything
+special -- there's just ''''one left
+over''''.)
+
+You can ''italicize text'' by putting 2 
+apostrophes on each side. 
+
+3 apostrophes will embolden '''the text'''. 
+
+5 apostrophes will embolden and italicize 
+'''''the text'''''.
+
+(4 apostrophes don't do anything special -- there's just ''''one left over''''.)
+
+==Links==
+
+You can give link to the other Web page over the Internet easily  [http://google.com Visit Google]
+
+==Attachments==
+===Images===
+You can get the External links easily
+
+img:http://images.google.co.in/intl/en_ALL/images/images_hp.gif
+
+==Working with Attachments==
+* Download File : attach:http://www.mydomain.com/document.doc
+
+==Unnumbered List==
+* ''Unordered lists'' are easy to do:
+** Start every line with a star.
+*** More stars indicate a deeper level.
+*: Previous item continues.
+** A new line
+* in a list  
+marks the end of the list.
+*Of course you can start again.
+
+==Numbered List==
+# ''Numbered lists'' are:
+## Very organized
+## Easy to follow
+#: Previous item continues
+A new line marks the end of the list.
+# New numbering starts with 1
+
+==Text Indents==
+: A colon (:) indents a line or paragraph.
+A newline starts a new paragraph.
+: We use 1 colon to indent once.
+:: We use 2 colons to indent twice.
+::: 3 colons to indent 3 times, and so on.
+
+==Table==
+<nowiki>
+{| border="1" cellspacing="0" cellpadding="5" align="left"
+! Web site
+! Link
+! Contact Email
+|- 
+| '''Zikzakmedia''' - ''Catalunya''
+| [http://www.zikzakmedia.com]
+| [mailto:zikzak AT zikzakmedia.com]
+|}
+</nowiki>
+
+{| border="1" cellspacing="0" cellpadding="5" align="left"
+! Web site
+! Link
+! Contact Email
+|- 
+| '''Zikzakmedia''' - ''Catalunya''
+| [http://www.zikzakmedia.com]
+| [mailto:zikzak AT zikzakmedia.com]
+|}
+<br/>
+<br/>
+<br/>
+<br/>
+==Headings==
+=1st Level Heading=
+==2nd Level Heading==
+===3rd Level Heading===
